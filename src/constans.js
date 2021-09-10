@@ -1,0 +1,15 @@
+export const WIDTH = 600;
+export const WIDTH_SLIDER = 600;
+export const HEIGHT = 200;
+export const HEIGHT_SLIDER = 50;
+export const PENDING = 40;
+export const DPI_WIDTH = 2*WIDTH
+export const DPI_WIDTH_SLIDER = 2*WIDTH_SLIDER
+export const DPI_HEIGHT = 2*HEIGHT
+export const DPI_HEIGHT_SLIDER = 10*HEIGHT_SLIDER
+export const VIEW_HEIGHT = DPI_HEIGHT - 2*PENDING
+export const VIEW_HEIGHT_SLIDER = DPI_HEIGHT_SLIDER
+export const VIEW_WIDTH_SLIDER = DPI_WIDTH_SLIDER
+export const VIEW_WIDTH = DPI_WIDTH
+export const ROWS_COUNT = 5
+export const RADIUS_CIRCLE = 8
